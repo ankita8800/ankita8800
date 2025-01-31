@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend Developer & UI Designer with 3+ years of experience crafting responsive, user-friendly websites. Skilled in HTML, CSS, JavaScript, React, and Bootstrap, I specialize in building seamless, visually appealing web experiences.<br>🔹 Expertise: Frontend Development, UI/UX Design, Responsive Design<br>🔹 Tools: Photoshop, Canva, Power BI (HR Analytics Dashboard)<br>🔹 Projects: 50+ completed, including staking components, leasing websites, CPAP machine rentals, and Gemini clone projects<br><br>💡 Passionate about turning ideas into reality with clean, scalable code and modern design principles. Always learning, exploring, and sharing insights.
+I'm a Frontend Developer & UI Designer with 3+ years of experience crafting responsive, user-friendly websites. Skilled in HTML, CSS, JavaScript, React, and Bootstrap, I specialize in building seamless, visually appealing web experiences.<br>🔹 Expertise: Frontend Development, UI/UX Design, Responsive Design<br>🔹 Tools: Photoshop, Canva, Figma etc<br>🔹 Projects: 50+ completed, including staking components, leasing websites, CPAP machine rentals, and Gemini clone projects<br><br>💡 Passionate about turning ideas into reality with clean, scalable code and modern design principles. Always learning, exploring, and sharing insights.
 
 
 ## 🌐 Socials:
